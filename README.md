@@ -18,5 +18,3 @@ Setup instructions:
 - Launch the .html file
 
 The "images" folder includes three example images.
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ygqSSHl" data-context="false" ><a href="//imgur.com/a/ygqSSHl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
