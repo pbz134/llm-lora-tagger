@@ -18,3 +18,7 @@ Setup instructions:
 - Launch the .html file
 
 The "images" folder includes three example images.
+
+
+Example video available here:
+https://imgur.com/a/ygqSSHl
