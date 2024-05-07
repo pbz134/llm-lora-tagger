@@ -11,7 +11,7 @@ Setup instructions:
 
 - Put your images in the "images" folder (has to be .png format, but you can easily modify the script to accept .jpg as well)
 
-- Name them like "1.jpg", "2.jpg" and so on
+- Name them like "1.png", "2.png" and so on
 
 - Write the total amount of images you put there in the "totalImages.txt" file
 
